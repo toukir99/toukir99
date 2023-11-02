@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @toukir_ahmed
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning web programming 
-- 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me ...
+👋 Hello, I'm Toukir Ahmed
 
-<!---
-toukir_ahmed/toukir_ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Software Engineer | Recent CS Graduate | Problem Solver
+
+🎓 Graduated with a B.Sc from Mymensingh Engineering College affiliated with University of Dhaka
+
+💼 Actively seeking an Entry Level Software Engineer position
+
+🌱 Currently learning and honing my skills in:
+   - Python
+   - JavaScript
+   - Django
+   - C++
+   - HTML & CSS
+
+💡 Passionate about:
+   - Algorithmic Problem Solving
+   - Web Development
+   - Open Source Contribution
+
+🔗 Connect with me:
+   - LinkedIn: https://www.linkedin.com/in/toukirahmed769/
+   - Email: ahmedtoukir99@gmail.com
+
+🛠️ My GitHub highlights:
+   - Repositories showcasing my coding projects
+   - Code samples demonstrating my skills and interests
+
+📚 Always eager to learn and collaborate. Let's code together and build amazing things!
+
+🚴‍♂️ When I'm not coding, I enjoy cricket & football
+
+📌 Looking for opportunities to grow and make a positive impact in the tech world.
+
+#SoftwareEngineering #WebDevelopment #Coding #OpenSource
+
