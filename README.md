@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Engineer | Recent CS Graduate | Problem Solver
 
-🎓 Graduated with a B.Sc from Mymensingh Engineering College affiliated with University of Dhaka
+🎓 Graduated with a B.Sc degree in Computer Science & Engineering from Mymensingh Engineering College affiliated with the University of Dhaka
 
 💼 Actively seeking an Entry Level Software Engineer position
 
