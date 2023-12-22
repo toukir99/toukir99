@@ -15,7 +15,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML & CSS](https://img.shields.io/badge/-HTML%20%26%20CSS-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 💡 Passionate about:
 
@@ -26,7 +27,7 @@
 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toukirahmed769/)
-Email: ahmedtoukir99@gmail.com
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedtoukir99@gmail.com)
 
 🛠️ My GitHub highlights:
 
@@ -40,4 +41,3 @@ Email: ahmedtoukir99@gmail.com
 📌 Looking for opportunities to grow and make a positive impact in the tech world.
 
 #SoftwareEngineering #WebDevelopment #Coding #OpenSource
-
