@@ -7,8 +7,11 @@
 💼 Actively seeking an Entry Level Software Engineer position
 
 🌱 Currently learning and honing my skills in:
-   - Python
+   - NodeJS
+   - ExpressJS
+   - MongoDB
    - JavaScript
+   - Python
    - Django
    - C++
    - HTML & CSS
