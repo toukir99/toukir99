@@ -2,12 +2,12 @@
 
 🚀 Aspiring Software Engineer | Recent CS Graduate | Problem Solver
 
-🎓 Graduated with a B.Sc degree in Computer Science & Engineering from Mymensingh Engineering College affiliated with the University of Dhaka.
-
 🌟 Intern Experience:
    Software Engineer Intern at ShareTrip Ltd. (January - March)
 
 💼 Actively seeking an Entry Level Software Engineer position.
+
+🎓 Graduated with a B.Sc degree in Computer Science & Engineering from Mymensingh Engineering College affiliated with the University of Dhaka.
 
 🌱 Currently learning and honing my skills in:
 
