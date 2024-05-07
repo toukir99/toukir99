@@ -3,7 +3,7 @@
 🚀 Aspiring Software Engineer | Recent CS Graduate | Problem Solver
 
 🌟 Intern Experience:
-   Software Engineer Intern at ShareTrip Ltd. (January - March)
+   Software Engineer Intern at ShareTrip Ltd. (January, 2024 - March, 2024)
 
 💼 Actively seeking an Entry Level Software Engineer position.
 
