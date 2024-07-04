@@ -3,6 +3,7 @@
 🚀 Junior Software Engineer at TechnoNext Ltd. | Recent CS Graduate | Problem Solver
 
 💼 Currently working as a Junior Software Engineer at TechnoNext Ltd. (July 2024 - Present)
+
 🌟 Professional Experience: Software Engineer Intern at ShareTrip Ltd. (January 2024 - March 2024)
 
 🎓 Graduated with a B.Sc degree in Computer Science & Engineering from Mymensingh Engineering College affiliated with the University of Dhaka.
