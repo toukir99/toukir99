@@ -1,11 +1,9 @@
 👋 Hello, I'm Toukir Ahmed!
 
-🚀 Aspiring Software Engineer | Recent CS Graduate | Problem Solver
+🚀 Junior Software Engineer at TechnoNext Ltd. | Recent CS Graduate | Problem Solver
 
-🌟 Intern Experience:
-   Software Engineer Intern at ShareTrip Ltd. (January, 2024 - March, 2024)
-
-💼 Actively seeking an Entry Level Software Engineer position.
+💼 Currently working as a Junior Software Engineer at TechnoNext Ltd. (July 2024 - Present)
+🌟 Professional Experience: Software Engineer Intern at ShareTrip Ltd. (January 2024 - March 2024)
 
 🎓 Graduated with a B.Sc degree in Computer Science & Engineering from Mymensingh Engineering College affiliated with the University of Dhaka.
 
