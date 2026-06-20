@@ -1,14 +1,13 @@
 👋 Hello, I'm Toukir Ahmed! 
 
-🚀 Junior Software Engineer at TechnoNext Ltd. | Recent CS Graduate | Problem Solver 
+🚀 Software Engineer at TechnoNext Ltd. | Backend Engineer | Java & Spring Ecosystem Enthusiast
 
-💼 Currently working as a Junior Software Engineer at TechnoNext Ltd. (July 2024 - Present) 
+💼 Currently working as a Software Engineer at TechnoNext Ltd. (July 2024 – Present), building scalable backend applications, microservices, and distributed systems. 
 
 🌟 Professional Experience: Software Engineer Intern at ShareTrip Ltd. (January 2024 - March 2024) 
 
 🎓 Graduated with a B.Sc degree in Computer Science & Engineering from Mymensingh Engineering College affiliated with the University of Dhaka. 
 
-🌱 Currently learning and honing my skills in: 
 
 🌱 Currently learning and honing my skills in:  
 
@@ -38,10 +37,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 
-💡 Passionate about: 
-- Algorithmic Problem Solving
-- Web Development
-- Open Source Contribution 
+💡 Passionate About
+
+Backend Engineering
+Microservices & Distributed Systems
+Algorithmic Problem Solving
+System Design & Software Architecture
+Open Source Contribution
 
 🔗 Connect with me: 
 
