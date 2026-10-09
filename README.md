@@ -1,12 +1,12 @@
-👋 Hello, I'm Toukir Ahmed! 
+👋 Hi, I'm Toukir Ahmed!
 
-🚀 Software Engineer at TechnoNext Ltd. | Backend Engineer | Java & Spring Ecosystem Enthusiast
+🚀 Software Engineer | Java Backend Engineer | Spring Boot & Microservices Enthusiast
 
-💼 Currently working as a Software Engineer at TechnoNext Ltd. (July 2024 – Present), building scalable backend applications, microservices, and distributed systems. 
+💼 Currently working as a Software Engineer at US-Bangla Airlines, developing backend solutions for engineering management systems. Previously, I worked at TechnoNext Ltd., building scalable microservices and distributed backend systems.
 
-🌟 Professional Experience: Software Engineer Intern at ShareTrip Ltd. (January 2024 - March 2024) 
+🌟 Professional Experience: Previously contributed to backend development at TechnoNext Ltd. and worked as a Software Engineer Intern at ShareTrip Ltd.
 
-🎓 Graduated with a B.Sc degree in Computer Science & Engineering from Mymensingh Engineering College affiliated with the University of Dhaka. 
+🎓 Education: B.Sc. in Computer Science & Engineering from Mymensingh Engineering College, affiliated with the University of Dhaka. 
 
 
 🌱 Currently learning and honing my skills in:  
